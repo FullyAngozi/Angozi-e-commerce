@@ -1,6 +1,6 @@
 {
-  "name": "bazar",
-  "version": "0.1.0",
+  "name": "angozi",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
